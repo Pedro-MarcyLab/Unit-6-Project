@@ -1,2 +1,2 @@
 # Unit-6-Project
-blah
+Sankofa project
